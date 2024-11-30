@@ -1,0 +1,83 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.navbar {
+    background-color: black;
+    padding: 15px;
+}
+
+.logo {
+    width: 100px;
+}
+
+.orab-turuvchi {
+    display: flex;
+    justify-content: space-between;
+}
+
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+ul {
+    display: flex;
+
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    padding-left: 20px;
+    color: white;
+    text-decoration: none;
+}
+
+.bot {
+    display: flex;
+}
+
+h1 {
+    padding-top: 100px;
+    text-align: center;
+}
+
+.x5 {
+    border-radius: 20px;
+    width: 350px;
+}
+
+.m5 {
+    border-radius: 20px;
+    width: 350px;
+}
+
+.i5 {
+    border-radius: 20px;
+    width: 350px;
+    height: 200px;
+}
+
+h3 {
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.card {
+    padding: 10px;
+    margin-left: 100px;
+    margin-top: 100px;
+    width: 350px;
+}
+
+.x3 {
+    height: 200px;
+    border-radius: 20px;
+    width: 350px;
+}
